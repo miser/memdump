@@ -1,4 +1,4 @@
-`node-memwatch` is a tool that can help us dump the heap at the nodejs server when the memory has leaked.
+`memdump` is a tool that can help us dump the heap at the nodejs server when the memory has leaked.
 
 #### Usage
 
