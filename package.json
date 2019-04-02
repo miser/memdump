@@ -1,7 +1,7 @@
 {
   "name": "memdump",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "`node-memwatch` is a tool that can help us dump the heap at the nodejs server when the memory has leaked.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
     "memory"
   ],
   "author": "miser",
-  "license": "ISC",
+  "license": "MIT",
+  "homepage": "https://github.com/miser/memdump",
   "dependencies": {
     "get-folder-size": "^2.0.1",
     "heapdump": "^0.3.12",
